@@ -4,7 +4,7 @@
 
 ## 📌 What is the Terminal?
 
-The **terminal** is a powerful tool that lets you issue **commands** directly to your computer. The computer reads these commands and executes them. It is one of the most important tools in Linux.
+A terminal is a command-line interface (CLI) that allows users to interact with the operating system by typing text-based commands, instead of using a graphical user interface (GUI).
 
 > Think of it as talking directly to your OS — no clicking, just typing.
 
