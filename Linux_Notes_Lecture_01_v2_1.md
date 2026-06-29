@@ -201,7 +201,7 @@ history -c ; history -w
 ## 🎯 Common Interview Questions from This Lecture
 
 **Q1: What is the difference between terminal and shell?**
-> The **terminal** is the window/interface you type in. The **shell** is the program running inside it that actually reads and executes your commands (e.g. Bash).
+> The **terminal** is the window/interface you type in. The **shell** is a command-line interpreter that sits between the user and the OS kernel. It processes the commands we type and communicates with the OS to execute them. In DevOps, we write shell scripts using bash or zsh to automate deployments, manage CI/CD pipelines, configure servers, and handle log monitoring.
 
 **Q2: How do you view previously run commands in Linux?**
 > Use the `history` command. You can re-run any command using `!<number>` or cycle through them with the up/down arrow keys.
