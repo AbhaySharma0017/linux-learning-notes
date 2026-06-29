@@ -5,7 +5,7 @@
 
 ## 📌 What is the Terminal?
 
-The **terminal** is a text-based interface that lets you give instructions (commands) directly to your computer. Instead of clicking buttons, you **type commands** and the computer executes them.
+The **terminal** is a text-based interface that lets you give instructions to your computer. Instead of clicking buttons, you **type commands** and the computer executes them.
 
 > 🧠 **Think of it like this:** A GUI (Graphical User Interface) is like ordering food from a menu with pictures. The terminal is like directly telling the chef exactly what to cook — faster and more powerful.
 
